@@ -1,0 +1,61 @@
+C Assignment: 
+
+
+
+Answer the following C programming questions:
+
+Experiment 1 -
+
+1. Write a C program to check whether a given number is positive, negative or zero.
+
+2. Write a C program to check whether a given number is even or odd.
+
+3. Write a C program to find the greatest of two given numbers.
+
+4. Write a C program to find the greatest among three give numbers.
+
+5. Write a C program to find the smallest among three given numbers.
+
+6. Write a C program to check if a person is eligible to vote or not.
+
+7. Write a C program to check whether a student has passed or failed. (note: The passing marks is 40)
+
+8. Write a C program the grade of a student according to the following marks
+
+90-100 -> A, 75-89 -> B, 60-74 -> C, 40-59 ->D, Below 40 ->F
+
+
+
+Experiment 2 -
+
+9. Write a C program to check whether a number is divisible by both 5 & 11.
+
+10. Write a C program to check whether a given year is leap year or not.
+
+11. Write a C program to check whether a given alphabet is vowel or consonant.
+
+12. Write a C program to check whether a given character is alphabet, digit or special character.
+
+13. Write a C program to check whether a alphabet is uppercase or lowercase
+
+14. Write a C program to check whether a person has made a profit, loss or neither, based on cost price and selling price, and show the amount.
+
+15. Write a C program to find the largest digit of a two-digit number.
+
+
+
+Experiment 3:
+
+16. Write a C program to print 1 to n numbers.
+
+17. Write a C program to find the sum of 1 to n numbers.
+
+18. Write a C program to find the sum of even numbers from 1 to n, and displaying them too.
+
+19. Write a C program to check if a number is prime or not.
+
+20. Write a C program to find the factorial of numbers.
+
+21. Write a C program to find the sum of the digit of the number.
+
+22. Write a C program to reverse the number.
